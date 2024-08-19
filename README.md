@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eniola Kolawole, a seasoned DevSecOps Specialist 
+- 👋 Hi, I am Eniola Kolawole
 - 👀 I’m interested in Full-stack development, DevOps and Cybersecurity
 - 🌱 I’m currently learning Full-stack development to ensure seemless deployment of web applications with security in mind.
 - 📫 You can reach me via my linkedln page or my twitter page.
