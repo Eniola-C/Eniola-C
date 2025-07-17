@@ -1,9 +1,33 @@
-- 👋 Hi, I am Eniola Kolawole
-- 👀 I’m interested in Full-stack development, DevOps and Cybersecurity
-- 🌱 I’m currently learning Full-stack development to ensure seemless deployment of web applications with security in mind.
-- 📫 You can reach me via my linkedln page or my twitter page.
+# Hi, I'm Eniola 👋
 
-<!---
-Eniola-C/Eniola-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate learner and creative technologist with a diverse background in:
+
+- **Frontend Development:** JavaScript, HTML, CSS, and React
+- **3D Animation:** Blender
+- **Cybersecurity Analysis**
+
+---
+
+## 🌱 My Learning Journey
+
+I believe in continuous learning and exploration. I'm always eager to dive into new technologies, experiment with creative ideas, and expand my skill set. My curiosity drives me to blend the worlds of web development, 3D animation, and cybersecurity—seeking what truly resonates with me.
+
+> “I want to keep learning until I find what fully resonates with me and will be the reason I could spend sleepless nights without any issues.”
+
+---
+
+## 🚀 Current Focus
+
+- Building interactive and visually appealing web interfaces with React
+- Creating 3D assets and animations using Blender
+- Exploring ways to integrate 3D experiences into web apps
+- Strengthening my understanding of cybersecurity best practices
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration, learning opportunities, and creative projects.  
+Feel free to reach out or connect with me!
+
+---
